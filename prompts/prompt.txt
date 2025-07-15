@@ -1,0 +1,3 @@
+here are context files
+
+edit success.css file to create an css override to apply light mode to a web application
